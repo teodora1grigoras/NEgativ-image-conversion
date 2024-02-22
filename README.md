@@ -1,2 +1,2 @@
-# NEgativ-image-conversion
+# Negativ-image-conversion
 Java
